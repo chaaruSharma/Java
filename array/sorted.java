@@ -19,6 +19,7 @@ class sorted{
             }else{
                 System.out.print("No");
             }
+            sc.close();
         
        
     }
